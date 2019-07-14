@@ -10,7 +10,7 @@ const Like = (props) => {
       className={classes}
       aria-hidden="true"
     />
-  ); nndfjdfjdfhdfhkdf
+  );
 };
 
 export default Like;
